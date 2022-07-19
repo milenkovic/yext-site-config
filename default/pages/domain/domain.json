@@ -1,0 +1,11 @@
+{
+    "$id": "domain-{{domainName}}",
+    "$schema": "https://schema.yext.com/config/pages/domain/v1",
+    "domainName": "{{domainName}}",
+    "autoGenerateSitemap": false,
+    "domainAccess": true,
+    "pagesCDNAccess": false,
+    "answersIntegration": false,
+    "reverseProxy": false,
+    "siteVersion": "pages"
+  }
