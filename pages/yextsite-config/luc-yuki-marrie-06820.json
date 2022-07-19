@@ -1,7 +1,7 @@
 {
-  "$id": "test-cac-apply-site",
+  "$id": "luc-yuki-marrie-06820",
   "$schema": "https://schema.yext.com/config/pages/yextsite-config/v1",
-  "siteName": "{{siteName}}",
+  "siteName": "Luc's Localsearch Site",
   "repoConfig": "snare-figurine-parcel-cbe80",
   "siteSettings": {
     "autoDeploy": true,
@@ -23,16 +23,6 @@
         }
       ],
       "isProductionBranch": true
-    },
-    {
-      "name": "jimTest",
-      "envVars": [
-        {
-          "key": "NPM_TOKEN",
-          "value": "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"
-        }
-      ],
-      "isProductionBranch": false
     }
   ]
 }
