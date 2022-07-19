@@ -1,5 +1,5 @@
 {
-    "$id": "domain-${{domainId}}",
+    "$id": "{{domainName}}",
     "$schema": "https://schema.yext.com/config/pages/domain/v1",
     "domainName": "${{domainName}}",
     "autoGenerateSitemap": false,
