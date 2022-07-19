@@ -1,8 +1,8 @@
 {
   "$id": "luc-yuki-marrie-06820",
   "$schema": "https://schema.yext.com/config/pages/yextsite-config/v1",
-  "siteName": "Luc's Localsearch Site",
-  "repoConfig": "snare-figurine-parcel-cbe80",
+  "siteName": "Luc's new react site",
+  "repoConfig": "impeding-breeze-nemesis-bb040",
   "siteSettings": {
     "autoDeploy": true,
     "autoStage": true,
