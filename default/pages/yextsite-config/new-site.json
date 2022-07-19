@@ -1,7 +1,7 @@
 {
-  "$id": "site-{{siteName}}",
+  "$id": "site-${{siteName}}",
   "$schema": "https://schema.yext.com/config/pages/yextsite-config/v1",
-  "siteName": "{{siteName}",
+  "siteName": "${{siteName}",
   "repoConfig": "impeding-breeze-nemesis-bb040",
   "siteSettings": {
     "autoDeploy": true,
