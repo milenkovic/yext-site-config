@@ -1,7 +1,7 @@
 {
-    "$id": "domain-${{domainName}}",
+    "$id": "domain-${{domainId}}",
     "$schema": "https://schema.yext.com/config/pages/domain/v1",
-    "domainName": "{{domainName}}",
+    "domainName": "${{domainName}}",
     "autoGenerateSitemap": false,
     "domainAccess": true,
     "pagesCDNAccess": false,
